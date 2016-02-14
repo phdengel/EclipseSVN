@@ -1,2 +1,2 @@
 # EclipseSVN
-Eclipse SVN repo for Envirronments Project
+Eclipse SVN repo for Environments Project
